@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hlonela13.github.io/mywebsite/sitemap.xml
